@@ -1,0 +1,11 @@
+# 19_4 Reverse A String In Three Different Ways -ok
+# 19_5 Introduction To Objects Properties And Values -ok
+# 19_6 Multiple Ways To Get _ Set Object Properties -ok
+# 19_7 Keys, Values, Nested Objects And Delete
+# 19_8 Loop An Object And Ways To Declare An Object
+# 19.5_1 Array Traversal Using For And While Loop
+# 19.5_2 Reversing An Array With/Without Reverse Method
+# 19.5_3 Sort An Array Problems And Solution
+# 19.5_4 Module Summary And Practice Tasks
+
+# 20-1 What Are Function And Function Syntax

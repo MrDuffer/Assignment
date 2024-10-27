@@ -1,0 +1,29 @@
+npm init
+npm install date-format --save
+
+when project module sent via mail then install all requires back
+npm install
+
+specific vertion install/uninstall/Update for a pakage
+Like: npm install bootstrap@3.3.7 --save
+      npm uninstall bootstap --save
+      npm update date-format
+      
+install dependancy
+npm install live-server --save-dev
+
+install typescript globally
+npm install typescript -g
+
+Check directory for typescript
+npm root -g
+
+unistall global module
+like: npm unistall typescript -g
+
+git config --global user.name "Zia Uddin"
+git config --global user.email "Ziauddinb07@gmail.com"
+To check ->
+git config --list
+
+

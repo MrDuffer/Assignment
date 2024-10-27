@@ -1,0 +1,76 @@
+body{
+    font-family: "Roboto", sans-serif;
+
+margin: 0;}
+
+h1{
+    font-size: 50px;
+}
+.titlecolor{
+    color: chocolate;
+}
+.FlexibleContainer{
+    display: flex;
+    margin-bottom: 150px;
+    
+    
+}
+.TopBanner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    padding: 15px 20px;
+}
+
+.halfWide{
+    width: 50%;
+    padding-left: 2%;
+   
+}
+.halfWide img{
+    width: 80%;
+    
+}
+.LinkButton{
+    text-decoration: none;
+    background-color: rgb(230, 100, 8);
+    padding: 10px 20px;
+    color: aliceblue;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.dreamBig{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.learningtime{
+    color: orange;
+}
+
+.experienceArea{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+.ExperienceItem{
+    box-shadow: 10px 10px  30px rgb(80, 80, 75);
+    width: 40%;
+    margin: 5%;
+    padding-left: 20px;
+    padding-right: 10px;
+      
+}
+#FullStackDev{
+ border-left: 7px solid tomato;
+}
+#BabyWebDev{
+ border-left: 7px solid green;
+}
+
+h2{
+    font-size: 30px;
+}
+
+footer p{
+    text-align: center;
+    font-weight: 700;
+}
