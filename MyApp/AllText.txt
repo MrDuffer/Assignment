@@ -26,9 +26,12 @@ git config --global user.email "Ziauddinb07@gmail.com"
 To check ->
 git config --list
 
-To check all log commits
-git log --oneline
+Commit ->
+git log --online
 
-To get back to random commit stage by using unique commit code ->
+
+
+
+
 
 
